@@ -1,3 +1,4 @@
 syntax: glob
 book
 .*.sw[po]
+.netlify
