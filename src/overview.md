@@ -15,8 +15,12 @@ and want either:
 It is particularly aimed at those working in
 the Galleries, Libraries, Archives & Museums (GLAM) sector,
 and many of the examples we will use draw on that background,
-but that doesn't mean that 
+but that doesn't mean you won't be able to use it
+if your background is different.
 
 ## What will I learn?
 
-We hope
+We hope that by the end of this book,
+you will be able to:
+
+- 
