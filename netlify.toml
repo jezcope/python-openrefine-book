@@ -1,2 +1,3 @@
 [build]
 publish = "src/_build/html"
+command = "jupyter book build src"
