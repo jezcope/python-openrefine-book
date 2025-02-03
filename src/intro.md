@@ -15,6 +15,14 @@ at least up to Episode 10
 
 [lc-open-refine]: https://librarycarpentry.github.io/lc-open-refine/
 
+:::{admonition} Note to self
+:class: warning
+_**TODO:** Add more links to resources_
+:::
+
 ## Getting set up
 
-_**TODO:** Choose a suitable dataset and make it available to download_
+:::{admonition} Note to self
+:class: warning
+_**TODO:** Choose a suitable dataset and add download instructions_
+:::
