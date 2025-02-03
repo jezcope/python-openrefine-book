@@ -1,3 +1,9 @@
-book
 .*.sw[po]
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
 .netlify

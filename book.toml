@@ -1,6 +1,0 @@
-[book]
-authors = ["Jez Cope"]
-language = "en"
-multilingual = false
-src = "src"
-title = "Getting Started with Python in OpenRefine"
